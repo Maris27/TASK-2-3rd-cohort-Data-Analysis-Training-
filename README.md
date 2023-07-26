@@ -52,9 +52,8 @@ we were given a data set known as Sales Data,we were assigned to carry the follo
     6.i created another column as instructed and named it sales range.To get the sales range for each sales entry, i used a function known as IF.
     Syntax=IF(logical_test, Value_if_true, value_if_false) i.e if your arguments are corrects it should return true or if wrong it should 
     return false. In this case we are asked to determine the low sales and the high sales if sales were greater than average It should retun high 
-    sales or if otherwise it should retun low sales.To achieve this ientered the arguments using the IF function.syntax 
-    =IF(J2>=AVERAGE($J$2:$J$701),"High sales", "Low sales"),from the argument there is a dollar 
-    sign symbol which is used to lock my value from average so it can be repeated on everyother cell.
+    sales or if otherwise it should retun low sales.To achieve this i entered the arguments using the IF function.syntax 
+    =IF(J2>=AVERAGE($J$2:$J$701),"High sales", "Low sales"),then i used absolute referencing my value from average so it can be repeated on everyother cell.
 
   ![image](https://github.com/Maris27/TASK-2-3rd-cohort-Data-Analysis-Training-/assets/140453106/602ddcf4-d402-4d52-8460-019e2d0e6294)
   
