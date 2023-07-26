@@ -1,4 +1,4 @@
-INTRODUCTION TO TASK 2(PRACTICING FOUNCTIONS AND FORMULAR)
+**INTRODUCTION TO TASK 2(PRACTICING FUNCTIONS AND FORMULAR)**
 
 After the trainig session on how to use functions and formular by Promise Chinonso ,we were assigned a task which is part of the learning process to ensure we understood what has beeen taught.
 
@@ -17,12 +17,12 @@ we were given a data set known as Sales Data,we were assigned to carry the follo
 6. Creating a column named sales return to ascertain high sales or low sales of the sales entries.
 
 
-  DATA SET PROVIDED.
+  **DATA SET PROVIDED**.
 
   ![image](https://github.com/Maris27/TASK-2-3rd-cohort-Data-Analysis-Training-/assets/140453106/1724f2fa-097b-4a98-bdda-515ed0aaedc8)
 
-    ACTIVITIES
-
+      ACTIVITIES
+     
     1. To determine Total revenue and proift generated,i used the sum function to sum the range that meant my criteria.
     
     Total revenue =sum(J2:J701) these stands s the range for sales which also means Revenue ,while total profit =sum(K2:K701) this stands as the for profit
@@ -43,8 +43,10 @@ we were given a data set known as Sales Data,we were assigned to carry the follo
 
     5.I Used a function known as Max =max(range),with this i was able to get the highest profit generated.
 
-    =MAX(K2:K701) 
+    =MAX(K2:K701)
 
+
+    
     
   
 
